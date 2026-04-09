@@ -1,13 +1,13 @@
 # 🔐 Password Strength Checker (Python GUI)
 
-## 📌 Description
+## Description
 A Python-based Password Strength Checker that evaluates the strength of a password as Weak, Medium, or Strong based on security criteria. The application also suggests a stronger password if the entered password is not secure.
 
 This project demonstrates basic cybersecurity concepts such as password security, validation, and secure password generation.
 
 ---
 
-## 🚀 Features
+## Features
 - Check password strength (Weak / Medium / Strong)
 - Criteria used:
   - Password length

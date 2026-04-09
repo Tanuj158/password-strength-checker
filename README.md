@@ -21,7 +21,7 @@ This project demonstrates basic cybersecurity concepts such as password security
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Tkinter (GUI)
 - Regular Expressions (re module)
@@ -29,7 +29,7 @@ This project demonstrates basic cybersecurity concepts such as password security
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Install Python
 Make sure Python is installed on your system.
